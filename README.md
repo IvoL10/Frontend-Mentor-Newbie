@@ -14,5 +14,7 @@ Tentei fazer um código limpo e um design responsivo. Espero poder receber algum
 
 - HTML
 - CSS
+- GOOGLE FONTS
+- IMAGES
 
 **Have fun building!** 🚀
