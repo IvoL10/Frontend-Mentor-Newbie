@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Visualização do design para o desafio de codificação.](./design/desktop-preview.jpg)
+![Visualização do design para o desafio de codificação.](./design/screencapture-file-C-Users-Ivo-Desktop-order-summary-component-main-index-html-2021-11-04-14_52_03.png)
 
 ## Welcome! 👋
 
