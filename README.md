@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Obrigado por verificar este desafio de codificação de front-end.
+Obrigado por visitar este desafio de codificação de front-end.
 
 [Frontend Mentor](https://www.frontendmentor.io) desafios o ajudam a melhorar suas habilidades de codificação ao construir projetos realistas.
 
