@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    background-color: hsl(225, 100%, 94%);
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+.card {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 750px;
+    width: 450px;
+    background-color: hsl(225, 100%, 98%);
+    border-radius: 20px;
+    box-shadow: 10px 10px 25px rgba(0, 0, 0, 0.103);
+}
+
+.card-image img{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.card-text {
+    text-align: center;
+    margin-top: 45px;  
+}
+.card-text h1 {
+    font-size: 28px;
+    font-weight: 900;
+}
+.card-text p {
+    padding-inline: 66px;
+    margin-top: 20px;
+    opacity: 70%;
+}
+.card-plan {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-plan img {
+    position: relative;
+    right: 55px;
+}
+.card-plan span {
+    position: relative;
+    right: 35px;
+}
+.card-plan span h2 {
+    font-weight: 900;
+}
+.card-plan a {
+    position: relative;
+    left: 60px;
+    font-weight: 700;
+    color: hsl(245, 75%, 52%);
+}.card-btn-pay {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.card-btn-pay a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    list-style: none;
+    border:hsl(245, 75%, 52%) solid 1px;
+    background-color: hsl(245, 75%, 52%);
+    color: hsl(225, 100%, 98%);
+    border-radius: 10px;
+    width: 345px;
+    height: 50px;
+    box-shadow: 0px 12px 25px hsla(245, 75%, 52%, 0.384);
+    border: 0;
+}
+.card-btn-pay a:hover {
+    background-color: hsla(245, 75%, 52%, 0.678);
+}
+.card-plan a:hover {
+    color: hsla(245, 75%, 52%, 0.678);
+}
+
+.card-btn-ch {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 900;
+    cursor: pointer;
+    color: hsla(223, 47%, 23%, 0.582);
+}
+.card-btn-ch p:hover {
+    color: hsl(223, 47%, 23%);
+}
