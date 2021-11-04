@@ -6,7 +6,7 @@
 
 Obrigado por visitar este desafio de codificação de front-end.
 
-[Frontend Mentor](https://www.frontendmentor.io) desafios o ajudam a melhorar suas habilidades de codificação ao construir projetos realistas.
+[Frontend Mentor](https://www.frontendmentor.io) desafios que o ajudam a melhorar suas habilidades de codificação ao construir projetos realistas.
 
 Meu primeiro desafio do Frontend Mentor - Order summary card 
 
