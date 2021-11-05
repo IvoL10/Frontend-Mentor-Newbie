@@ -2,19 +2,12 @@
 
 ![Visualização do design para o desafio de codificação.](./design/screencapture-file-C-Users-Ivo-Desktop-order-summary-component-main-index-html-2021-11-04-14_52_03.png)
 
-## Welcome! 👋
+Site: Frontend Mentor
 
-Obrigado por visitar este desafio de codificação de front-end.
+Challenge: Order summary card
 
-[Frontend Mentor](https://www.frontendmentor.io) desafios que o ajudam a melhorar suas habilidades de codificação ao construir projetos realistas.
+Difficulty: Newbie
 
-Meu primeiro desafio do Frontend Mentor - Order summary card 
+Resources: HTML/CSS
 
-Tentei fazer um código limpo e tive problemas com o plano de fundo, não consegui colocar ele corretamente. Espero poder receber algum feedback, para que possa melhorar meu código e aprender mais sobre a experiência de outros devealopers. Para esses desafios eu uso:
-
-- HTML
-- CSS
-- GOOGLE FONTS
-- IMAGES
-
-**Have fun building!** 🚀
+Coded by: Ivo Luis - IvoL10
